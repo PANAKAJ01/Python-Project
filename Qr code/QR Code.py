@@ -26,7 +26,8 @@ Phonepe_qr.show()
 Paytm_qr.show()
 Google_pay_qr.show()
 
-import qrcode
+
+
 
 
 
