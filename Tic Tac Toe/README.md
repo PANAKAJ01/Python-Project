@@ -33,12 +33,6 @@ It supports **Player vs Player (PvP)** and **Player vs Bot (PvB)** modes, with i
 
 ---
 
-## 🖥️ Screenshots
-
-*(You can add screenshots of your game here)*
-
----
-
 ## 💻 How to Run
 
 1. Make sure you have Python installed (Python 3.x recommended)  
