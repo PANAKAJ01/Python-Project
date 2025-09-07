@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY")
+api_key = os.getenv("API_KEY")
 
 genai.configure(api_key=api_key)
 
@@ -19,3 +19,4 @@ if __name__ == "__main__":
             break
         response = ask_gemini(user_input)
         print("Gemini:", response)
+
