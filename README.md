@@ -1,10 +1,10 @@
-# <img src="https://www.python.org/static/community_logos/python-logo.png" width="50"> Python Projects Repository
+# <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"> Python Projects Repository
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
 ![GitHub Repo](https://img.shields.io/badge/Repo-Public-green?style=flat-square)
 
-> A **curated collection of Python projects** including **Data Analysis, Automation, Web Scraping, GUI applications, and Algorithms**.  
+> A **collection of Python projects** including **Data Analysis, Automation, Web Scraping, GUI applications, and Algorithms**.  
 > Clean, modular, and ready-to-run scripts — perfect for learning, reference, and portfolio building.
 
 ---
@@ -12,23 +12,21 @@
 ## ✨ Features
 
 - 🚀 Multiple Python projects covering **Data Analysis, Automation, Web Scraping, GUI apps, and Algorithms**  
-- 📊 Includes **interactive visualizations, CSV/JSON processing, and reports**  
+- 📊 Includes **data processing, visualizations, and reports**  
 - 💻 Ready-to-run scripts with **sample input/output**  
 - 📝 Well-documented, clean, and modular code  
 - 🏆 Ideal for learning, showcasing skills, and portfolio enhancement  
 
 ---
 
-## 🎨 Projects Showcase
+## 📚 Projects Showcase
 
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| E-commerce Sales Analysis | Analyze sales trends, top products & customer behavior | Python, Pandas, Matplotlib | ![Demo](https://via.placeholder.com/100x50?text=GIF) |
-| Web Scraping Tool | Extract structured data from websites automatically | Python, Requests, BeautifulSoup | ![Demo](https://via.placeholder.com/100x50?text=GIF) |
-| GUI Calculator | Interactive calculator application | Python, Tkinter | ![Demo](https://via.placeholder.com/100x50?text=GIF) |
-| Algorithm Collection | Implementations of classic algorithms | Python | ![Demo](https://via.placeholder.com/100x50?text=GIF) |
-
-> Tip: Replace placeholders with actual GIFs/screenshots to make it visually attractive.
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| E-commerce Sales Analysis | Analyze sales trends, top products & customer behavior | Python, Pandas, Matplotlib |
+| Web Scraping Tool | Extract structured data from websites automatically | Python, Requests, BeautifulSoup |
+| GUI Calculator | Interactive calculator application | Python, Tkinter |
+| Algorithm Collection | Implementations of classic algorithms | Python |
 
 ---
 
