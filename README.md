@@ -1,4 +1,4 @@
-# <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"> Python Projects Repository
+# <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"> Python Projects Repository
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
